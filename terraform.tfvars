@@ -1,0 +1,1 @@
+subnetID = "/subscriptions/31c07c5d-fab3-4c8c-8a4e-0accddc5d6aa/resourceGroups/dev2/providers/Microsoft.Network/virtualNetworks/dev2-vnet/subnets/default"
